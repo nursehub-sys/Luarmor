@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nursehub-sys/cute/refs/heads/main/NURSEhub"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/e9ef106de3134d6c8728db35bc5d9caa"))()
